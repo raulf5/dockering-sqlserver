@@ -2,7 +2,7 @@
 
 ### Intro
 
-Microsoft SQL Server is a relational [database management system](https://es.wikipedia.org/wiki/Sistema\_de\_gesti%C3%B3n\_de\_bases\_de\_datos) (RDBMS). Applications and tools connect to a SQL Server _instance_ or _database_, and communicate using [Transact-SQL](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16) (T-SQL).
+Microsoft SQL Server is a relational [database management system](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_bases_de_datos) (RDBMS). Applications and tools connect to a SQL Server _instance_ or _database_, and communicate using [Transact-SQL](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16) (T-SQL).
 
 ### Versions
 
@@ -61,4 +61,4 @@ As mentioned above, each database is a collection of different objects.  Below i
 * **View** - A view is basically a stored query.  Sometimes a query can be so complex it is created a view so that other connections can just write "SELECT \* FROM view".  Note that the actually result set from the query is not stored/cached (this is done for materialized views), only the query text, so each call to the view results in the entire query being executed.
 * **Stored Procedure/Function** - Both of these objects, as you would assume, are objects that store a collection of SQL statements and other than this one similarity they do not have much in common.  Some of the key differences are: Functions can only run SELECT and a stored procedure can also run DELETE/INSERT/UPDATE, stored procedures can have both input and output parameters whereas functions can only have input, functions can be used in one or many parts of a SELECT query and stored procedures cannot be used, stored procedures can optionally return a value whereas function must return a value, etc.
 
-![sql server database objects](https://www.mssqltips.com/tutorialimages/9214\_sql\_server\_101\_tutorial.003.png)\
+![sql server database objects](https://www.mssqltips.com/tutorialimages/9214_sql_server_101_tutorial.003.png)\

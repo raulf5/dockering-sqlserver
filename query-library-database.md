@@ -158,7 +158,7 @@ You can add as many conditions and as much logic to the `WHERE` clause as needed
     AND a.author_name = 'Cay S. Horstmann';
 ```
 
-As you can see, it is possible to build on top of previous conditions by using [boolean algebra](https://en.wikipedia.org/wiki/Boolean\_algebra). In this example, we use `AND` to filter the results to second editions of the given author only.
+As you can see, it is possible to build on top of previous conditions by using [boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra). In this example, we use `AND` to filter the results to second editions of the given author only.
 
 Another query will help us illustrate this concept further:
 

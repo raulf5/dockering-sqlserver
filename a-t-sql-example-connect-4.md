@@ -15,7 +15,7 @@ Simple game rules:\
 
 ### T-SQL Procedures
 
-Game consists of four T-SQL procedures that complete the game and can be played. Run the complete _Connect4.sql_ file (in [Github](https://github.com/tomaztk/Connect4\_sql\_game) repository) in to install the game on your database.
+Game consists of four T-SQL procedures that complete the game and can be played. Run the complete _Connect4.sql_ file (in [Github](https://github.com/tomaztk/Connect4_sql_game) repository) in to install the game on your database.
 
 The procedures for the game are:
 
@@ -36,7 +36,7 @@ EXEC dbo.AddToken 2, 4
 
 And every turn, you will be prompted with the board result:
 
-[![Gameplay](https://tomaztsql.wordpress.com/wp-content/uploads/2023/11/game\_board2.png?w=345)](https://tomaztsql.wordpress.com/wp-content/uploads/2023/11/game\_board2.png)
+[![Gameplay](https://tomaztsql.wordpress.com/wp-content/uploads/2023/11/game_board2.png?w=345)](https://tomaztsql.wordpress.com/wp-content/uploads/2023/11/game_board2.png)
 
 Figure 1: Gameplay
 
@@ -262,13 +262,13 @@ END;
 GO
 ```
 
-As always, the complete code is available on [Github repository](https://github.com/tomaztk/Connect4\_sql\_game). And feel free to collaborate.
+As always, the complete code is available on [Github repository](https://github.com/tomaztk/Connect4_sql_game). And feel free to collaborate.
 
 Happy T-SQLing!
 
 If you are interested in more T-SQL games, check my other repositories and blog posts:
 
-* 2048 Game with T-SQL: [BlogPost](https://tomaztsql.wordpress.com/2021/11/29/2048-game-with-t-sql/) and Github [repo](https://github.com/tomaztk/2048\_sql\_game)
+* 2048 Game with T-SQL: [BlogPost](https://tomaztsql.wordpress.com/2021/11/29/2048-game-with-t-sql/) and Github [repo](https://github.com/tomaztk/2048_sql_game)
 * Wordle with T-SQL: [SQL Server Central Post](https://www.sqlservercentral.com/articles/playing-popular-game-of-wordle-using-t-sql-2) and Github [repo](https://github.com/tomaztk/tsqlwordle)
-* Tower of Hanoi with T-SQL: [Blogpost](https://tomaztsql.wordpress.com/2021/12/28/tower-of-hanoi-game-with-t-sql/) and Github [repo](https://github.com/tomaztk/Tower\_of\_Hanoi\_sql\_game)
+* Tower of Hanoi with T-SQL: [Blogpost](https://tomaztsql.wordpress.com/2021/12/28/tower-of-hanoi-game-with-t-sql/) and Github [repo](https://github.com/tomaztk/Tower_of_Hanoi_sql_game)
 * SQL session on many T-SQL games: Github [repo](https://github.com/tomaztk/Games-with-TSQL)

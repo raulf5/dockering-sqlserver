@@ -4,7 +4,7 @@ Docker is an open platform for developing, shipping, and running applications. D
 
 
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### [The Docker daemon](https://docs.docker.com/get-started/overview/#the-docker-daemon) <a href="#the-docker-daemon" id="the-docker-daemon"></a>
 

@@ -25,7 +25,7 @@ sudo docker pull mcr.microsoft.com/mssql/server:2022-latest
 
 * [ ] Check that the container is up and running from vscode docker extension:
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _More information at_ [_https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver16\&tabs=cli\&pivots=cs1-bash_](https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver16\&tabs=cli\&pivots=cs1-bash)

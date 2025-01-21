@@ -36,7 +36,7 @@ docker version
 ### Linux
 
 * [ ] Set up Docker's package repository. See step one of [Install using the `apt` repository](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository).
-* [ ] Download latest [DEB package](https://desktop.docker.com/linux/main/amd64/149282/docker-desktop-4.30.0-amd64.deb?utm\_source=docker\&utm\_medium=webreferral\&utm\_campaign=docs-driven-download-linux-amd64).
+* [ ] Download latest [DEB package](https://desktop.docker.com/linux/main/amd64/149282/docker-desktop-4.30.0-amd64.deb?utm_source=docker\&utm_medium=webreferral\&utm_campaign=docs-driven-download-linux-amd64).
 * [ ] Install the package with apt as follows:
 
 ```bash
